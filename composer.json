@@ -2,7 +2,12 @@
   "name": "Exodus4341/fpdf",
   "type": "library",
   "description": "FPDF is a PHP class which allows to generate PDF files with pure PHP, that is to say without using the PDFlib library. F from FPDF stands for Free: you may use it for any kind of usage and modify it to suit your needs.",
-  "homepage": "https://github.com/Exodus4341/fpdf",
+  "version": "1.7",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Exodus4341/fpdf.git",
+                "reference": "1.7"
+            },
   "authors": [
     {
       "name": "Genesis Ortiz",
